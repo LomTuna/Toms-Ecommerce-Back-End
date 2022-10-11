@@ -1,0 +1,19 @@
+{
+  "name": "toms-ecommerce-back-end",
+  "version": "1.0.0",
+  "description": "Ecommerce Back End",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LomTuna/Toms-Ecommerce-Back-End.git"
+  },
+  "author": "Tom Luna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LomTuna/Toms-Ecommerce-Back-End/issues"
+  },
+  "homepage": "https://github.com/LomTuna/Toms-Ecommerce-Back-End#readme"
+}
